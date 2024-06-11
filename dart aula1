@@ -1,0 +1,18 @@
+class Caracter {
+  String nome= "Katte";
+  double altura= 1.75;
+  double forca = 10;
+  double idade = 17;
+  double velocidade = 7;
+
+  void Andar(){
+    print("andando...velocidade 3");
+    String tecla = "W";
+      if tecla == W
+  }
+  
+
+void EstaPressionado(){
+  Boll Pressionado = true
+
+}
